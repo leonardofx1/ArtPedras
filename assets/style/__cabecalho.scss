@@ -1,13 +1,9 @@
 
-@font-face {
-    src: url('../font/TiltPrism-Regular.ttf');
-    font-family: 'Tilt Prism';    
-    font-weight: bold;
-} 
+
 .container__cabecalho{
     height: 90vh;
     width: 100%;
-    margin-bottom: 20rem;
+    margin-bottom: 2rem;
     &::after {
         content: '';
         display: block;
